@@ -14,5 +14,7 @@ Shoot 'em up created with the Processing library for Java
 * Force biome change: G
 * Kill player: K
 * Print debug particle info: P
-* Force backdrop scroll up/down: \[/\]
+* Force backdrop scroll up/down: \[ / \]
 * Reset game: ;
+
+

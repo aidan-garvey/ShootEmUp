@@ -7,7 +7,7 @@ public class Main
     public static void main(String[] args)
     {
         String[] pArgs = {"Test Sketch"};
-        GameSketch gameSketch = new GameSketch(900, 900, 144, true);
+        GameSketch gameSketch = new GameSketch(900, 900, 60, true);
         PApplet.runSketch(pArgs, gameSketch);
     }
 }
